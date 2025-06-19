@@ -19,7 +19,6 @@ Install Dependencies Most requirements are standard Python data science librarie
 ```bash
 pip install -r requirements.txt
 ```
-(If requirements.txt is available, otherwise install packages as needed.)
 
 Run the Notebook Open SMS_Spam_Classifier.ipynb in Jupyter Notebook or Jupyter Lab to follow the analysis and experiment with the code.
 
